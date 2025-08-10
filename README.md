@@ -16,6 +16,6 @@ GO TO BACKEND FOLDER, OPEN TERMINAL AND FOR FIRST TIME TYPE (not"")
 
  ## then
  navigate to frontend 
- install react or npx idk
+ install npx
  after it just enter " npm start "
  done...
